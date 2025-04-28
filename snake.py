@@ -2,8 +2,7 @@
 # ==============================================================================
 # Advanced Snake Game with Curses (v2.7 - Maze Entry & Interaction Fixes)
 # ==============================================================================
-# Features:
-# - ... (previous features) ...
+# Updates
 # - Maze Challenge (Type 8):
 #   - Generates a small maze structure with wide (3-unit) corridors.
 #   - Maze occupies <= 20% of screen area.
